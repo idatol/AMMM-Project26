@@ -1,0 +1,42 @@
+/*********************************************
+ * OPL 22.2.0.0 Model
+ * Author: idatollaksen
+ * Creation Date: Nov 9, 2026 at 2:29:48 PM
+ *********************************************/
+
+ int N = ...;
+ int L = ...;
+ int U = ...;
+ int T = ...;
+ 
+ range I = 1..N;
+ 
+ int P[I] = ...;
+ int E[I] = ...;
+ 
+ dvar boolean x[I];
+ dvar boolean y[I];
+ 
+ minimize sum(i in I) E[i] * x[i];
+ 
+ subject to {
+  // Profitt
+  sum(i in I) P[i] * x[i] >= T;
+
+  // Maks U
+  forall(i in 1..N-U)
+    sum(j in i..i+U) x[j] <= U;
+
+  // Start-kobling
+  y[1] >= x[1];
+  forall(i in 2..N)
+    y[i] >= x[i] - x[i-1];
+
+  // Min L
+  forall(i in 1..N-L+1, j in i..i+L-1)
+    x[j] >= y[i];
+
+  // Blokken må få plass
+  forall(i in N-L+2..N)
+    y[i] == 0;
+}

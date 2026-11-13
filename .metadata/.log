@@ -1,0 +1,238 @@
+!SESSION 2026-11-09 14:20:11.163 -----------------------------------------------
+eclipse.buildId=Build 22.2.0.R8
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Framework arguments:  -keyring /Users/idatollaksen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Users/idatollaksen/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2026-11-09 14:20:36.438
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.jsdt.ui, page: org.eclipse.wst.jsdt.ui.preferences.JavaBasePreferencePage)
+
+!ENTRY org.eclipse.ui 4 4 2026-11-09 14:36:02.314
+!MESSAGE Plug-in 'org.eclipse.team.ui' contributed an invalid Menu Extension (Path: 'project' is invalid): org.eclipse.team.ui.ConfigureProject
+
+!ENTRY org.eclipse.ui 4 4 2026-11-09 14:36:02.314
+!MESSAGE Plug-in 'org.eclipse.team.ui' contributed an invalid Menu Extension (Path: 'project' is invalid): org.eclipse.team.ui.ApplyPatchAction
+
+!ENTRY org.eclipse.ui 4 4 2026-11-09 14:36:02.315
+!MESSAGE Plug-in 'org.eclipse.ui.ide' contributed an invalid Menu Extension (Path: 'navigate/goTo' is invalid): goToResource
+
+!ENTRY org.eclipse.ui 4 4 2026-11-09 14:36:02.372
+!MESSAGE Plug-in 'org.eclipse.team.ui' contributed an invalid Menu Extension (Path: 'project' is invalid): org.eclipse.team.ui.ConfigureProject
+
+!ENTRY org.eclipse.ui 4 4 2026-11-09 14:36:02.372
+!MESSAGE Plug-in 'org.eclipse.team.ui' contributed an invalid Menu Extension (Path: 'project' is invalid): org.eclipse.team.ui.ApplyPatchAction
+
+!ENTRY org.eclipse.ui 4 4 2026-11-09 14:36:02.377
+!MESSAGE Plug-in 'org.eclipse.ui.ide' contributed an invalid Menu Extension (Path: 'navigate/goTo' is invalid): goToResource
+
+!ENTRY ilog.odms.ide.core 1 0 2026-11-09 14:52:38.936
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.opllang 1 0 2026-11-09 14:58:38.925
+!MESSAGE concert_wrap.IloEndMT
+!SESSION 2026-11-12 12:33:01.243 -----------------------------------------------
+eclipse.buildId=Build 22.2.0.R8
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Framework arguments:  -keyring /Users/idatollaksen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Users/idatollaksen/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2026-11-12 12:33:09.307
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.jsdt.ui, page: org.eclipse.wst.jsdt.ui.preferences.JavaBasePreferencePage)
+
+!ENTRY ilog.odms.ide.core 1 0 2026-11-12 12:33:09.454
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.opllang 1 0 2026-11-12 12:33:13.851
+!MESSAGE concert_wrap.IloEndMT
+!SESSION 2026-11-12 12:33:35.921 -----------------------------------------------
+eclipse.buildId=Build 22.2.0.R8
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Framework arguments:  -keyring /Users/idatollaksen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Users/idatollaksen/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2026-11-12 12:33:44.118
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.jsdt.ui, page: org.eclipse.wst.jsdt.ui.preferences.JavaBasePreferencePage)
+
+!ENTRY ilog.odms.ide.core 1 0 2026-11-12 12:33:44.229
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.opllang 1 0 2026-11-13 08:19:37.604
+!MESSAGE concert_wrap.IloEndMT
+!SESSION 2026-11-13 08:19:38.221 -----------------------------------------------
+eclipse.buildId=Build 22.2.0.R8
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Framework arguments:  -keyring /Users/idatollaksen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Users/idatollaksen/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2026-11-13 08:19:43.548
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.jsdt.ui, page: org.eclipse.wst.jsdt.ui.preferences.JavaBasePreferencePage)
+
+!ENTRY ilog.odms.ide.core 1 0 2026-11-13 08:19:43.673
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2026-11-13 09:18:52.325
+!MESSAGE null
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.wst.jsdt.core.dom.ASTNode.setStructuralProperty(ASTNode.java:1521)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.safeSetProperty(ClosureCompilerASTConverter.java:1690)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.processBinaryExpression(ClosureCompilerASTConverter.java:514)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.process(ClosureCompilerASTConverter.java:187)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.transform(ClosureCompilerASTConverter.java:128)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.transformAndSetProperty(ClosureCompilerASTConverter.java:1680)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.processExpressionStatement(ClosureCompilerASTConverter.java:718)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.process(ClosureCompilerASTConverter.java:219)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.transform(ClosureCompilerASTConverter.java:128)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.transformAndSetProperty(ClosureCompilerASTConverter.java:1680)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.processIfStatement(ClosureCompilerASTConverter.java:903)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.process(ClosureCompilerASTConverter.java:237)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.transform(ClosureCompilerASTConverter.java:128)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.processBlock(ClosureCompilerASTConverter.java:528)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.process(ClosureCompilerASTConverter.java:199)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.transform(ClosureCompilerASTConverter.java:128)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.processAstRoot(ClosureCompilerASTConverter.java:493)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.process(ClosureCompilerASTConverter.java:263)
+	at org.eclipse.wst.jsdt.core.dom.ClosureCompilerASTConverter.transform(ClosureCompilerASTConverter.java:128)
+	at org.eclipse.wst.jsdt.internal.compiler.closure.ClosureCompiler.parse(ClosureCompiler.java:120)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:911)
+	at org.eclipse.wst.jsdt.core.dom.ASTParser.createAST(ASTParser.java:675)
+	at ilog.odms.ide.opllang.ast.JavascriptParser.parse(JavascriptParser.java:15)
+	at ilog.odms.ide.opllang.ast.checker.Resolver.processScript(Resolver.java:187)
+	at ilog.odms.ide.opllang.ast.checker.Resolver.visit(Resolver.java:154)
+	at ilog.odms.ide.opllang.ast.node.ExecuteBlock.accept0(ExecuteBlock.java:50)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.Resolver.visit(Resolver.java:59)
+	at ilog.odms.ide.opllang.ast.node.CompilationUnit.accept0(CompilationUnit.java:52)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.ASTParser.internalTypeCheck(ASTParser.java:315)
+	at ilog.odms.ide.opllang.ast.ASTParser.parse(ASTParser.java:199)
+	at ilog.odms.ide.opllang.ast.ASTParser.parse(ASTParser.java:191)
+	at ilog.odms.ide.internal.core.IloModelFileImpl.updateAST(IloModelFileImpl.java:106)
+	at ilog.odms.ide.ui.editors.model.IloModelEditor.initAST(IloModelEditor.java:179)
+	at ilog.odms.ide.ui.editors.model.IloModelEditor$2.run(IloModelEditor.java:213)
+	at org.eclipse.swt.widgets.Display.timerProc(Display.java:5405)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6221)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationNextEventMatchingMask(Display.java:5578)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5979)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.nextEventMatchingMask(NSApplication.java:92)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3997)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at ilog.odms.ide.rcp.IloApplication.start(IloApplication.java:125)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.jface 4 0 2026-11-13 09:43:09.893
+!MESSAGE The command ("ilog.odms.ide.ui.references") is undefined
+!STACK 0
+java.lang.Exception
+	at org.eclipse.jface.action.ExternalActionManager$CommandCallback.isActive(ExternalActionManager.java:367)
+	at org.eclipse.jface.action.ActionContributionItem.isCommandActive(ActionContributionItem.java:635)
+	at org.eclipse.jface.action.ActionContributionItem.isVisible(ActionContributionItem.java:691)
+	at org.eclipse.jface.action.MenuManager.isChildVisible(MenuManager.java:926)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:749)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:672)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1161)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.processContents(MenuManagerRenderer.java:633)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeTopicChildAdded(MenuManagerRenderer.java:320)
+	at jdk.internal.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5264)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.emf.ecore.util.EcoreEList.dispatchNotification(EcoreEList.java:248)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.addUnique(NotifyingListImpl.java:294)
+	at org.eclipse.emf.common.util.AbstractEList.add(AbstractEList.java:304)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:997)
+	at org.eclipse.ui.internal.PopupMenuExtender.addMenuContributions(PopupMenuExtender.java:379)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:355)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:338)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:467)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:494)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:272)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1626)
+	at org.eclipse.swt.widgets.Menu.menuWillOpen(Menu.java:803)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6381)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSMenu.popUpContextMenu(NSMenu.java:80)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:273)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4504)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3996)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at ilog.odms.ide.rcp.IloApplication.start(IloApplication.java:125)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)

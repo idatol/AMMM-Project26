@@ -1,0 +1,24 @@
+/*********************************************
+ * OPL 22.2.0.0 Model
+ * Author: idatollaksen
+ * Creation Date: Nov 9, 2026 at 2:29:48 PM
+ *********************************************/
+
+ int N = ...;
+ int L = ...;
+ int U = ...;
+ int T = ...;
+ 
+ range I = 1..N;
+ 
+ int P[I] = ...;
+ int E[I] = ...;
+ 
+ //decision variables
+ dvar boolean x[I];
+ dvar boolean y[I];
+ 
+ subject to {
+  sum (i in I) P[I] * X[I] >= T
+  minimize = 
+ }

@@ -1,0 +1,72 @@
+!SESSION 2026-11-09 14:52:45.336 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-09 14:52:45.341
+!MESSAGE Run Configuration1 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2026-11-09 14:52:45.541
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:633)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1215)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:156)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:377)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1605)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2026-11-09 14:55:30.610 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-09 14:55:30.615
+!MESSAGE Run Configuration1 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 09:05:00.193 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 09:05:00.197
+!MESSAGE Run Configuration1 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 09:54:06.612 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 09:54:06.619
+!MESSAGE Run Configuration1 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 10:57:07.732 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 10:57:07.745
+!MESSAGE Run Configuration1 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
