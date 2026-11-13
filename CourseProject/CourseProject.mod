@@ -74,7 +74,7 @@ subject to {
 // We do NOT check any rules here – CPLEX has already done that.
 // We only read where the 1s in x begin and end.
 execute {
-  var file = new IloOplOutputFile("output.sol");
+  var file = new IloOplOutputFile("output6.sol");
   var start = 0;
 
   for (var i = 1; i <= N; i++) {

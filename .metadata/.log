@@ -236,3 +236,25 @@ java.lang.Exception
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY ilog.odms.ide.opllang 1 0 2026-11-13 11:00:10.391
+!MESSAGE concert_wrap.IloEndMT
+!SESSION 2026-11-13 11:00:11.353 -----------------------------------------------
+eclipse.buildId=Build 22.2.0.R8
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Framework arguments:  -keyring /Users/idatollaksen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Users/idatollaksen/.eclipse_keyring -data file:/Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/
+
+!ENTRY org.eclipse.ui.ide 4 4 2026-11-13 11:00:13.931
+!MESSAGE -data /valid/path, workspace already set:file:/Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/
+
+!ENTRY org.eclipse.ui 2 2 2026-11-13 11:00:15.357
+!MESSAGE Invalid preference category path: org.eclipse.wst.html.ui.preferences.web (bundle: org.eclipse.wst.jsdt.ui, page: org.eclipse.wst.jsdt.ui.preferences.JavaBasePreferencePage)
+
+!ENTRY ilog.odms.ide.core 1 0 2026-11-13 11:00:15.604
+!MESSAGE ODM Bundle is OFF

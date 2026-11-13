@@ -70,3 +70,63 @@ Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Doc
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 10:57:07.745
 !MESSAGE Run Configuration1 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 11:04:27.007 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 11:04:27.020
+!MESSAGE Run Configuration2 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 11:05:14.496 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 11:05:14.507
+!MESSAGE Run Configuration3 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 11:05:31.409 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 11:05:31.416
+!MESSAGE Run Configuration4 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 11:06:04.645 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 11:06:04.656
+!MESSAGE Run Configuration5 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject
+!SESSION 2026-11-13 11:06:14.738 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.18+8
+JRE 17 Mac OS X aarch64-64-Bit 20260120_1049 (JIT enabled, AOT enabled)
+OpenJ9   - f0754f4102
+OMR      - c8ee95c0c
+JCL      - 080f3b0e3a1 based on jdk-17.0.18+8
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_NO
+Command-line arguments:  -clean -nl en_NO -configuration /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/.metadata/workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2026-11-13 11:06:14.750
+!MESSAGE Run Configuration6 in /Users/idatollaksen/Documents/Master-UPC/AMMM/AMMM-Project26/CourseProject

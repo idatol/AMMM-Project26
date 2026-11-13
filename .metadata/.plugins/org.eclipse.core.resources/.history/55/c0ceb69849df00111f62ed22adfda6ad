@@ -1,0 +1,93 @@
+/*********************************************
+ * OPL 22.2.0.0 Model
+ * Author: idatollaksen
+ * Creation Date: Nov 9, 2026 at 2:29:48 PM
+ * ------------------------------------------------------------------
+ * AMMM project: ILP model for the machine (ON/OFF blocks)
+ *
+ * What everything means
+ * ------------------------------------------------------------------
+ * DATA (numbers read from the .dat file, never change):
+ *   N    = number of time periods (1, 2, ..., N)
+ *   L    = minimum length of an ON block
+ *   U    = maximum length of an ON block
+ *   T    = minimum total profit that must be reached
+ *   P[i] = profit if the machine is ON in period i
+ *   E[i] = energy used if the machine is ON in period i
+ *   I    = the set of all periods {1, 2, ..., N}
+ *
+ * DECISION VARIABLES (what CPLEX decides, 0 or 1):
+ *   x[i] = 1 if the machine is ON in period i, 0 otherwise
+ *   y[i] = 1 if the machine STARTS in period i
+ *          (OFF in i-1, ON in i), 0 otherwise
+ *
+ * INDICES (just "counters", not variables):
+ *   i = one period, often "where something starts"
+ *   j = one period inside a window/block that starts at i
+ *********************************************************************/
+
+// ---------- DATA ----------
+int N = ...;          // number of periods
+int L = ...;          // min block length
+int U = ...;          // max block length
+int T = ...;          // profit
+
+range I = 1..N;       // all periods
+
+int P[I] = ...;       // profit per period
+int E[I] = ...;       // energy per period
+
+// ---------- VARIABLES ----------
+dvar boolean x[I];    // 1 = ON in period i
+dvar boolean y[I];    // 1 = machine starts in period i
+
+// ---------- OBJECTIVE ----------
+// Minimize total energy
+minimize sum(i in I) E[i] * x[i];
+
+// ---------- CONSTRAINTS ----------
+subject to {
+
+  // Profit
+  sum(i in I) P[i] * x[i] >= T;
+
+  // Max U
+  forall(i in 1..N-U)
+    sum(j in i..i+U) x[j] <= U;
+
+  // Start
+  y[1] >= x[1];
+  forall(i in 2..N)
+    y[i] >= x[i] - x[i-1];
+
+  // Min L
+  forall(i in 1..N-L+1, j in i..i+L-1)
+    x[j] >= y[i];
+
+  // Block must fit
+  forall(i in N-L+2..N)
+    y[i] == 0;
+}
+
+// ---------- OUTPUT ----------
+// Writes each ON block as "start end" on its own line.
+// We do NOT check any rules here – CPLEX has already done that.
+// We only read where the 1s in x begin and end.
+execute {
+  var file = new IloOplOutputFile("output.sol");
+  var start = 0;
+
+  for (var i = 1; i <= N; i++) {
+
+    // Block STARTS at i: ON now, and either first period or OFF before
+    if (x[i] == 1 && (i == 1 || x[i-1] == 0)) {
+      start = i;
+    }
+
+    // Block ENDS at i: ON now, and either last period or OFF after
+    if (x[i] == 1 && (i == N || x[i+1] == 0)) {
+      file.writeln(start, " ", i);
+    }
+  }
+  file.close();
+}
