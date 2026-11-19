@@ -258,3 +258,6 @@ Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -clean -keyring /Use
 
 !ENTRY ilog.odms.ide.core 1 0 2026-11-13 11:00:15.604
 !MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.opllang 1 0 2026-11-13 11:13:29.517
+!MESSAGE concert_wrap.IloEndMT
