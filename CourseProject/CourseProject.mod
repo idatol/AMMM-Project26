@@ -41,6 +41,10 @@ int E[I] = ...;       // energy per period
 dvar boolean x[I];    // 1 = ON in period i
 dvar boolean y[I];    // 1 = machine starts in period i
 
+execute {
+  cplex.epgap = 0;
+}
+
 // ---------- OBJECTIVE ----------
 // Minimize total energy
 minimize sum(i in I) E[i] * x[i];
@@ -61,8 +65,8 @@ subject to {
     y[i] >= x[i] - x[i-1];
 
   // Min L
-  forall(i in 1..N-L+1, j in i..i+L-1)
-    x[j] >= y[i];
+  forall(i in I)
+    x[i] >= sum(j in maxl(1, i-L+1)..i) y[j];
 
   // Block must fit
   forall(i in N-L+2..N)

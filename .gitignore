@@ -1,0 +1,9 @@
+# Eclipse / CPLEX Studio workspace
+.metadata/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
