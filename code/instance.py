@@ -25,6 +25,5 @@ def read_dat(path):
 
     return data
 
-
 if __name__ == "__main__":
     print(read_dat("project/project.1.dat"))
