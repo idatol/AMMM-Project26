@@ -43,6 +43,7 @@ dvar boolean y[I];    // 1 = machine starts in period i
 
 execute {
   cplex.epgap = 0;
+  cplex.tilim = 1800;
 }
 
 // ---------- OBJECTIVE ----------

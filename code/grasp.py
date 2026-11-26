@@ -58,7 +58,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="GRASP")
     parser.add_argument("input", help="path of the .dat file")
     parser.add_argument("output", help="path of the .sol file to write")
-    parser.add_argument("--alpha", type=float, default=0.01)
+    parser.add_argument("--alpha", type=float, default=0.002)
     parser.add_argument("--time", type=float, default=60,
                         help="time limit in seconds")
     parser.add_argument("--iters", type=int, default=10**9,
