@@ -163,8 +163,11 @@ if __name__ == "__main__":
     parser.add_argument("output", help="path of the .sol file to write")
     args = parser.parse_args()
 
+    # construct() gives the same result as greedy() above, but much faster
+    # for large N (see construct.py). greedy() is kept as the simple version.
+    from construct import construct
     inst = read_dat(args.input)
-    blocks = greedy(inst)
+    blocks = construct(inst)
     if blocks is None:
         print("No feasible solution found", file=sys.stderr)
         sys.exit(1)
